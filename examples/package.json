@@ -1,0 +1,15 @@
+{
+    "name": "opensovereign-examples",
+    "version": "1.0.0",
+    "description": "Functional examples for OpenSovereign modules",
+    "main": "register_citizen_pay_fee.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "citizenship": "node register_citizen_pay_fee.js"
+    },
+    "dependencies": {
+        "ethers": "^6.11.1"
+    },
+    "author": "",
+    "license": "MIT"
+}
