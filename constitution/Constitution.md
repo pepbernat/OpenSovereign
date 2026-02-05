@@ -24,8 +24,16 @@ We, the members of OpenSovereign, establish this constitution to create a digita
 
 ## Article 4: Code and Law
 
-4.1. **Smart Contracts:** Automated execution of contracts is the default enforcement mechanism.
-4.2. **Human Appeal:** "Code is not Law" in the absolute sense. A mechanism for human arbitration and appeal exists to resolve bugs, exploits, or unforeseen injustices in automated code execution.
+4.1. **Separation of Powers:**
+    ***Legislative:** The Citizenry (voting on proposals).
+    *   **Executive:** Smart Contracts (automated execution).
+    ***Judicial:** Arbitration Courts (dispute resolution) and Guardian Council (constitutional interpretation).
+4.2. **Guardian Role:** The Guardian Council is strictly limited to protecting the Constitution (veto power). They cannot initiate legislation or spend treasury funds.
+4.3. **Guarantees:**
+    *   **Rotation:** Political offices must rotate. Indefinite tenure is prohibited.
+    ***Diversity:** No single interest group shall hold a majority in any checking body.
+    *   **Impeachment:** All specialized roles (Guardians, Judges) are revocable by the citizenry.
+4.4. **Human Appeal:** "Code is not Law" in the absolute sense. A mechanism for human arbitration exists to resolve bugs or exploits.
 
 ## Article 5: Privacy and Identity
 

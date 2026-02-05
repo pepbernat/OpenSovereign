@@ -47,5 +47,9 @@ Governing is executing transactions on the state kernel.
 ## 4. Checks and Balances
 
 - **The Constitution:** Immutable core rules (hard fork required to change).
-- **Guardian Council:** A small elected group with *veto-only* power to stop unconstitutional proposals. They cannot initiate proposals.
+- **Guardian Council:** A small elected group with *veto-only* power to stop unconstitutional proposals.
+  - **Selection:** 5-7 members elected by high-reputation citizens for 2-year staggered terms.
+  - **Veto Process:** Requires 2/3 majority of Guardians. Can only veto proposals that violate the Constitution.
+  - **Revocation (Impeachment):** A citizen proposal with 75% supermajority can remove a Guardian immediately.
+  - **Registry:** Current members are tracked in the [Guardian Registry](Guardians_Registry.md).
 - **Citizen Veto:** A supermajority of citizens can override the Council.

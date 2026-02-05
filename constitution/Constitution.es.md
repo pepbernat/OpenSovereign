@@ -24,8 +24,16 @@ Nosotros, los miembros de OpenSovereign, establecemos esta constitución para cr
 
 ## Artículo 4: Código y Ley
 
-4.1. **Smart Contracts:** La ejecución automatizada de contratos es el mecanismo de cumplimiento por defecto.
-4.2. **Apelación Humana:** "El código no es la Ley" en sentido absoluto. Existe un mecanismo de arbitraje y apelación humana para resolver errores (bugs), exploits o injusticias imprevistas en la ejecución automatizada.
+4.1. **Separación de Poderes:**
+    ***Legislativo:** La Ciudadanía (votando propuestas).
+    *   **Ejecutivo:** Contratos Inteligentes (ejecución automatizada).
+    ***Judicial:** Cortes de Arbitraje (resolución de disputas) y Consejo de Guardianes (interpretación constitucional).
+4.2. **Rol del Guardián:** El Consejo de Guardianes está estrictamente limitado a proteger la Constitución (poder de veto). No pueden iniciar legislación ni gastar fondos del tesoro.
+4.3. **Garantías:**
+    *   **Rotación:** Los cargos políticos deben rotar. La tenencia indefinida está prohibida.
+    ***Diversidad:** Ningún grupo de interés único tendrá mayoría en ningún órgano de control.
+    *   **Impeachment:** Todos los roles especializados (Guardianes, Jueces) son revocables por la ciudadanía.
+4.4. **Apelación Humana:** "El Código no es Ley" en sentido absoluto. Existe un mecanismo de arbitraje humano para resolver errores o abusos.
 
 ## Artículo 5: Privacidad e Identidad
 

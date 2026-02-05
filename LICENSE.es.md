@@ -1,4 +1,4 @@
-Licencia MIT
+# Licencia MIT
 
 Copyright (c) 2026 Colaboradores de OpenSovereign
 

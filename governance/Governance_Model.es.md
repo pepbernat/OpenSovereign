@@ -47,5 +47,9 @@ Gobernar es ejecutar transacciones en el kernel del estado.
 ## 4. Pesos y Contrapesos
 
 - **La Constitución:** Reglas centrales inmutables (requiere hard fork para cambiar).
-- **Consejo de Guardianes:** Un pequeño grupo electo con poder *solo de veto* para detener propuestas inconstitucionales. No pueden iniciar propuestas.
+- **Consejo de Guardianes:** Un grupo pequeño elegido con poder *únicamente de veto* para detener propuestas inconstitucionales.
+  - **Selección:** 5-7 miembros elegidos por ciudadanos de alta reputación para mandatos escalonados de 2 años.
+  - **Proceso de Veto:** Requiere mayoría de 2/3 de los Guardianes. Solo pueden vetar propuestas que violen la Constitución.
+  - **Revocación (Impeachment):** Una propuesta ciudadana con una supermayoría del 75% puede destituir a un Guardián inmediatamente.
+  - **Registro:** Los miembros actuales se registran en el [Registro de Guardianes](Guardians_Registry.es.md).
 - **Veto Ciudadano:** Una supermayoría de ciudadanos puede anular al Consejo.

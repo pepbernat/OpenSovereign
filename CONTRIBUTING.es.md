@@ -46,8 +46,8 @@ OpenSovereign es software vivo. Para proponer cambios a la [Constitución](../co
 
 ## Canales de Comunidad
 
-* **Discord:** [Únete a nuestro Discord](#) (placeholder)
-* **Discourse:** [Foro de Gobernanza](#) (placeholder)
+* **Discord:** [Únete a nuestro Discord](https://discord.gg/opensovereign-placeholder) (placeholder)
+* **Discourse:** [Foro de Gobernanza](https://forum.opensovereign.org-placeholder) (placeholder)
 * **GitHub Discussions:** Úsalo para preguntas y respuestas técnicas.
 
 ## Código de Conducta
